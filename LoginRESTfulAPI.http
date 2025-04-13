@@ -1,0 +1,6 @@
+@LoginRESTfulAPI_HostAddress = http://localhost:5033
+
+GET {{LoginRESTfulAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
